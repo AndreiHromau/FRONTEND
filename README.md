@@ -1,5 +1,5 @@
 
-# $${\color{red}Image \space \color{lightblue}Gallery \space \color{orange}Project}$$
+# $${\color{#ff0048}Image \space \color{#00f0ec}Gallery \space \color{Magenta}Project}$$
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автоматическая+загрузка+картинок)](https://git.io/typing-svg)
 ## Описание 
