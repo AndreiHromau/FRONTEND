@@ -21,6 +21,7 @@
 
 ## Установка 
 **Склонируйте репозиторий и запустите index.html**
+<br>
 **API работает с включенным VPN!**
 <br>
 :black_square_button: :black_square_button: :black_square_button:
